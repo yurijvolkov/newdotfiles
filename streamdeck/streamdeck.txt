@@ -1,0 +1,6 @@
+Call in Snap:
+
+bash -c "xdotool search --name 'Snapchat' windowactivate --sync key ctrl+w sleep 1 key Return; result=$?; if [ $result -ne 0 ]; then (/opt/google/chrome/chrome --profile-directory=Default --app-id=abdndmcckigaeepaljhpcngbfdkbiggb &) ; (sleep 5 && xdotool search --name "Snapchat" windowactivate --sync key Escape key Tab sleep 1 key Tab sleep 1 key Tab sleep 1 type \"Ekaterina Deyneka\"     && sleep 1 && xdotool key Down && sleep 1 && xdotool key Return && sleep 1 && xdotool keydown Shift key Tab keyup Shift && sleep 1 && xdotool key Return ) ; fi"
+
+bash -c "xdotool search --name 'Snapchat' windowactivate --sync key ctrl+w sleep 1 key Return; result=$?; if [ $result -ne 0 ]; then (/opt/google/chrome/chrome --profile-directory=Default --app-id=abdndmcckigaeepaljhpcngbfdkbiggb &) ; (sleep 5 && xdotool search --name "Snapchat" windowactivate --sync key Escape key Tab sleep 1 key Tab sleep 1 key Tab sleep 1 type \"gdmu8\"     && sleep 1 && xdotool key Down && sleep 1 && xdotool key Return && sleep 1 && xdotool keydown Shift key Tab keyup Shift && sleep 1 && xdotool key Return ) ; fi"
+

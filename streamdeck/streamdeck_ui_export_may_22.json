@@ -1,0 +1,250 @@
+{
+    "streamdeck_ui_version": 1,
+    "state": {
+        "DL52L2A40674": {
+            "buttons": {
+                "0": {
+                    "0": {
+                        "icon": "/home/yv/repos/newdotfiles/streamdeck/kotechka.png",
+                        "command": "bash /home/yv/repos/newdotfiles/streamdeck/calls.sh 0 \"Ekaterina Deyneka\""
+                    },
+                    "1": {
+                        "icon": "/home/yv/repos/newdotfiles/streamdeck/glebs.jpg",
+                        "command": "bash /home/yv/repos/newdotfiles/streamdeck/calls.sh 0 \"gdmu8\""
+                    },
+                    "2": {
+                        "icon": "/home/yv/repos/newdotfiles/streamdeck/spotify_crop.gif",
+                        "switch_page": 2,
+                        "brightness_change": 0
+                    },
+                    "3": {
+                        "icon": "/home/yv/repos/newdotfiles/streamdeck/whale-docker.gif",
+                        "brightness_change": 0,
+                        "command": "",
+                        "write": "",
+                        "text_vertical_align": "middle-bottom",
+                        "text": "",
+                        "switch_page": 3
+                    },
+                    "4": {},
+                    "5": {
+                        "command": "",
+                        "icon": "",
+                        "text_vertical_align": "top",
+                        "text": "",
+                        "write": ""
+                    },
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "1": {
+                    "0": {
+                        "icon": "/home/yv/repos/newdotfiles/streamdeck/liked.png",
+                        "command": "bash /home/yv/repos/newdotfiles/streamdeck/calls.sh 1 \"Liked Songs\"",
+                        "text": "",
+                        "text_vertical_align": ""
+                    },
+                    "1": {
+                        "text": "",
+                        "text_vertical_align": "middle",
+                        "command": "bash /home/yv/repos/newdotfiles/streamdeck/calls.sh 1 \"Daily Mix 1\"",
+                        "icon": "/home/yv/repos/newdotfiles/streamdeck/1.png"
+                    },
+                    "2": {
+                        "text": "",
+                        "command": "bash /home/yv/repos/newdotfiles/streamdeck/calls.sh 1 \"Daily Mix 2\"",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/yv/repos/newdotfiles/streamdeck/2.png"
+                    },
+                    "3": {
+                        "text": "",
+                        "command": "bash /home/yv/repos/newdotfiles/streamdeck/calls.sh 1 \"Daily Mix 3\"",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/yv/repos/newdotfiles/streamdeck/3.png"
+                    },
+                    "4": {
+                        "text": "",
+                        "command": "bash /home/yv/repos/newdotfiles/streamdeck/calls.sh 1 \"Daily Mix 4\"",
+                        "text_vertical_align": "middle",
+                        "icon": "/home/yv/repos/newdotfiles/streamdeck/4.png"
+                    },
+                    "5": {
+                        "icon": "/home/yv/repos/newdotfiles/streamdeck/Kalush.png",
+                        "command": "bash /home/yv/repos/newdotfiles/streamdeck/calls.sh 1 \"This Is KALUSH\""
+                    },
+                    "6": {
+                        "icon": "/home/yv/repos/newdotfiles/streamdeck/Okean.png",
+                        "command": "bash /home/yv/repos/newdotfiles/streamdeck/calls.sh 1 \"This Is Okean Elzy\""
+                    },
+                    "7": {
+                        "icon": "/home/yv/repos/newdotfiles/streamdeck/background.png",
+                        "command": "bash /home/yv/repos/newdotfiles/streamdeck/calls.sh 1 \"Upbeat Background Music \""
+                    },
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {
+                        "icon": "/home/yv/repos/newdotfiles/streamdeck/arrow.jpg",
+                        "switch_page": 1
+                    }
+                },
+                "2": {
+                    "0": {
+                        "text": "dev1",
+                        "write": "tmux new -s 'dev1' -d 'docker run -it --gpus all -v /:/workdir c5ba8a991245 /bin/bash'",
+                        "text_vertical_align": "middle"
+                    },
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {
+                        "icon": "/home/yv/repos/newdotfiles/streamdeck/arrow.jpg",
+                        "switch_page": 1
+                    }
+                },
+                "3": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "4": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "5": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "6": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "7": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "8": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                },
+                "9": {
+                    "0": {},
+                    "1": {},
+                    "2": {},
+                    "3": {},
+                    "4": {},
+                    "5": {},
+                    "6": {},
+                    "7": {},
+                    "8": {},
+                    "9": {},
+                    "10": {},
+                    "11": {},
+                    "12": {},
+                    "13": {},
+                    "14": {}
+                }
+            },
+            "page": 1,
+            "brightness": 99,
+            "brightness_dimmed": 0
+        }
+    }
+}
