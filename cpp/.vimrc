@@ -33,7 +33,7 @@ map ; :Files<CR>
 let g:fzf_layout = { 'window': { 'width': 0.9, 'height': 0.6, 'relative': v:true, 'yoffset': 1.0 } }
 
 "vista
-nmap <F8> :Vista!!<CR>
+nmap <F4> :Vista!!<CR>
 let g:vista_sidebar_width = 60
 let g:vista_cursor_delay = 200
 let g:vista#renderer#enable_icon = 1
@@ -48,6 +48,12 @@ nmap <F6> :YcmCompleter GoToDeclaration<CR>
 nmap <F7> :YcmCompleter GoToDefinition<CR>
 nmap <F8> :YcmCompleter GoToReferences<CR>
 nmap <F9> :YcmCompleter GetType<CR>
+nmap <F3> <plug>(YCMHover) 
+let g:ycm_auto_hover = '0' 
+set updatetime=100000
+let g:ycm_show_diagnostics_ui = 0 "turns off errors highlighting
+
+
 
 "general
 set number relativenumber
